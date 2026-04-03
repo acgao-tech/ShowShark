@@ -67,3 +67,18 @@ Use this repo to:
 - [ShowShark for RV Enthusiasts](https://acgao.com/showshark-for-rv-enthusiasts/)
 - [ShowShark for Van Life and Off-Grid Living](https://acgao.com/showshark-for-van-life-and-off-grid-living/)
 - [ShowShark for Private Aviation](https://acgao.com/showshark-for-private-aviation/)
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="Media/Screenshot%202026-04-03%20at%2003.50.05.png" alt="Search Library" width="300"></td>
+    <td><img src="Media/Screenshot%202026-04-03%20at%2003.50.22.png" alt="Discover" width="300"></td>
+    <td><img src="Media/Screenshot%202026-04-03%20at%2003.51.14.png" alt="Content Discovery" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="Media/Screenshot%202026-04-03%20at%2003.51.35.png" alt="Recommendations" width="300"></td>
+    <td><img src="Media/Screenshot%202026-04-03%20at%2003.52.20.png" alt="Movie Details" width="300"></td>
+    <td><img src="Media/Screenshot%202026-04-03%20at%2003.52.35.png" alt="Actor Browse" width="300"></td>
+  </tr>
+</table>
