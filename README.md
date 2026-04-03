@@ -55,7 +55,6 @@ Use this repo to:
 
 ### Use Cases
 
-- [Your YouTube Library, Upgraded](https://acgao.com/showshark-your-youtube-library-upgraded/)
 - [ShowShark for Sailors and Cruisers](https://acgao.com/showshark-for-sailors-and-cruisers/)
 - [ShowShark for RV Enthusiasts](https://acgao.com/showshark-for-rv-enthusiasts/)
 - [ShowShark for Van Life and Off-Grid Living](https://acgao.com/showshark-for-van-life-and-off-grid-living/)
