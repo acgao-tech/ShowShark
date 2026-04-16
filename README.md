@@ -6,7 +6,7 @@
 
 ShowShark is a self-hosted media server and streaming platform optimized for the Apple ecosystem. It streams your personal media library from a Mac to iPhone, iPad, Apple TV, Mac, Apple Watch, and Apple Vision Pro using finely crafted, fully native apps. ShowShark is the Plex, Jellyfin, and Emby alternative for users who value privacy, simplicity, and an experience that feels at home on Apple hardware.
 
-## Get ShowShark
+## Download
 
 - [ShowShark Client](https://apps.apple.com/us/app/showshark-stream-your-media/id6757886737) (App Store) — Native client app for iPhone, iPad, Apple TV, Mac, Watch, and Vision Pro
 - [ShowShark Client](https://testflight.apple.com/join/HxeHFyWX) (TestFlight) — Test the latest ShowShark beta version
