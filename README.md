@@ -23,10 +23,10 @@ ShowShark is a self-hosted media server and streaming platform optimized for the
 - **Works out of the box** — Automatic server discovery, real-time transcoding, and intelligent codec negotiation with zero configuration.
 - **Broad format support** — MKV, MP4, AVI, Blu-ray (BDMV), H.264, H.265/HEVC, AV1, DTS, Dolby TrueHD, FLAC, and dozens more — transcoded on the fly.
 
-## Releases
+## Release Notes
 
-- **v2026.04.23** - [Release notes](https://acgao.com/showshark-release-notes-v2026-04-23/) (In Development).
-- **v2026.04.13** - [Release notes](https://acgao.com/showshark-release-notes-v2026-04-06/) (Latest).
+- [v2026.04.23](https://acgao.com/showshark-release-notes-v2026-04-23/) (In Development).
+- [v2026.04.13](https://acgao.com/showshark-release-notes-v2026-04-06/) (Latest).
   
 ## Key Features
 
