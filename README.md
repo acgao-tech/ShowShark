@@ -38,6 +38,8 @@ ShowShark is a self-hosted media server and streaming platform optimized for the
 
 - **Live Channels** — Create virtual TV channels with scheduled programming from your video, music, and photo libraries. Includes a 24-hour TV guide.
 - **Adaptive Bitrate Streaming** — Automatic quality adjustment based on real-time network conditions, from a conservative startup to full 4K at 20 Mbps.
+- **Live TV** - IPTV and M3U support for your local broadcast channels.
+- **YouTube** - Direct integration with YouTube; watch your favorite channels.
 - **Blu-ray Disc Playback** — Drop a BDMV folder into your library and ShowShark handles title scanning, chapter navigation, multi-clip playback, and accurate A/V sync.
 - **iCloud Photos Integration** — Browse and stream your iCloud Photo Library alongside your local media.
 - **Content Discovery** — Find what to watch with "Similar To" recommendations, mood-based filtering ("By Feel"), and genre browsing — all powered by your own library.
