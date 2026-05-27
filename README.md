@@ -17,6 +17,7 @@ ShowShark is a self-hosted media server and streaming platform optimized for the
 
 ## Why ShowShark?
 
+- **Works on your Mac** - Supports macOS 14+ (Sonoma) on Intel and Apple Silicon.
 - **Fully native Apple apps** — SwiftUI on every platform, with hardware-accelerated transcoding on Apple Silicon. No web wrappers, no Electron.
 - **Remote access built-in** — No need for firewall configuration, VPNs or insecure UPnP. Remote access to your media works out-of-the-box.
 - **Privacy-first** — Your library stays on your hardware, your network, your terms. No telemetry. No cloud dependency.
