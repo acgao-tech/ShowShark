@@ -28,6 +28,7 @@ ShowShark is a self-hosted media server and streaming platform optimized for the
 
 ## Release Notes
 
+- [v2026.08.10](https://acgao.com/showshark-release-notes-v2026-08-10/)
 - [v2026.07.20](https://acgao.com/showshark-release-notes-v2026-07-20/)
 - [v2026.07.01](https://acgao.com/showshark-release-notes-v2026-07-01/)
 - [v2026.06.20](https://acgao.com/showshark-release-notes-v2026-06-20/)
